@@ -8,4 +8,4 @@ print(len (str))
 
 var = random.randint(1,65)
 
-print(str[:10])
+print(str[:var])
